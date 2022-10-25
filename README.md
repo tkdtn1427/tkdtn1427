@@ -14,19 +14,10 @@
 
 </br>
 
-### 📌 Primary Project
+## 📌 Primary Project
 
 - 2022.09 - 2022.10 : Coding Tutoring Service( `Team Project`, `Web`, `BackEnd` )
 - 2021.03 - 2021.06 : Autonomous Driving Carrier( `Team Project`, `Ai Model`, `Motion Control`)
-
-</br>
-
-### 📌 Experience
-
-- Language : Java, Python ,C
-- BackEnd : Spring Boot, InteliJ, Gradle
-- DevOps : AWS, Mysql , Apache tomcat, H2, Git
-- Etc : Tensorflow, Anaconda, Jupyter NoteBook, Notion, Velog, GitHub
 
 
 </br>
@@ -34,8 +25,6 @@
 ## 📌 Study History
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=tkdtn1427)](https://github.com/tkdtn1427) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkdtn1427&layout=compact)](https://github.com/tkdtn1427/github-readme-stats)
-
-
 
 
 <!--
