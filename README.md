@@ -11,7 +11,7 @@
 
 ## 📌 Study History
 
-[![*'s github stats](https://github-readme-stats.vercel.app/api?username=tkdtn1427)](https://github.com/tkdtn1427)         [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkdtn1427&layout=compact)](https://github.com/tkdtn1427/github-readme-stats)
+[![*'s github stats](https://github-readme-stats.vercel.app/api?username=tkdtn1427)](https://github.com/tkdtn1427) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkdtn1427&layout=compact)](https://github.com/tkdtn1427/github-readme-stats)
 
 
 
